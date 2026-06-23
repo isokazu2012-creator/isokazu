@@ -1,4 +1,4 @@
-run-name: Context
+run-name: Contexts
 on: push
 jobs:
     print:
